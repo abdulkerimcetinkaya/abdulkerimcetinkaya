@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdulkerim Çetinkaya</h1>
 <h3 align="center">A passionate Backend developer from Türkiye</h3>
 
+- 🔭 I’m currently working on **Java**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **a.cetinkayaa78@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdulkerimçetinkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulkerimçetinkaya" height="30" width="40" /></a>
