@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Java**
 
-- 💬 Ask me about **Backend**
+- 💬 Ask me about **Backend Web Development**
 
 - 📫 How to reach me **a.cetinkayaa78@gmail.com**
 
