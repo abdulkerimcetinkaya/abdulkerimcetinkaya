@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulkerim Çetinkaya</h1>
 <h3 align="center">A passionate Backend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Java** **SQL** **Spring boot**
 
 - 💬 Ask me about **Backend Web Development**
 
