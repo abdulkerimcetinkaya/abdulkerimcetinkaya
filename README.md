@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulkerim Çetinkaya</h1>
-<h3 align="center">I am a Data Analysis</h3>
+<h3 align="center">I am a Data Analyst</h3>
 
 - 🔭 I’m currently working on **Python, Numpy, Pandas, SQL**
 
