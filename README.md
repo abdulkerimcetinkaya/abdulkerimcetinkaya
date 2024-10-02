@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdulkerim Çetinkaya</h1>
 <h3 align="center">I am a Data Analysis</h3>
 
-- 🌱 I’m currently learning **Python, Numpy, Pandas, SQL**
+- 🔭 I’m currently working on **Python, Numpy, Pandas, SQL**
+
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Data Analysis**
 
